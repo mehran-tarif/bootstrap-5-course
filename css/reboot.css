@@ -1,0 +1,35 @@
+.btn-primary,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #7a0dfd;
+    border-color: #8c2cff;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+    background-color: #5e13b9;
+    border-color: #6917ca;
+}
+
+.btn-primary:active:focus,
+.btn-primary:focus {
+    box-shadow: 0 0 0 .25rem rgba(199, 49, 253, 0.5);
+}
+
+.text-primary {
+    color: #6906df !important;
+}
+
+.bg-primary {
+    background-color: #f9f8ff !important;
+}
+
+.border-primary {
+    border-color: #6906df !important;
+}
+
+.alert-primary {
+    color: #5700c1;
+    background-color: #decfff;
+    border-color: #d5abff;
+}
